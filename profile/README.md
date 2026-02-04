@@ -5,7 +5,6 @@ Hello! Welcome to Serble's GitHub
 ## Links
 - [Serble Website](https://serble.net)
 - [Link Shortener](https://srbl.cc)
-- [Serble Searx](https://search.serble.net)
 - [Status Page](https://status.serble.net)
 
 ## Contact
